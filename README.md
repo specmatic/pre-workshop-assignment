@@ -3,7 +3,7 @@
 This assignment is designed to gauge your current understanding of the topics that will be covered in the upcoming Specmatic workshop. Please complete this assignment to the best of your ability. Your responses will help us tailor the workshop content to better suit your needs.
 
 ## Instructions
-### 1️⃣ Clone this repository from Github to your local machine.
+### 1️⃣ Clone this repository from GitHub to your local machine.
 **DO NOT RAISE A PR AND SHARE YOUR SOLUTION WITH THE WORLD**
 
 ### 2️⃣ Setup Specmatic License
